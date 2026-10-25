@@ -33,4 +33,4 @@ as a hard signal, not feedback to note and move past.
 - Don't re-run the failed approach. The reset is the point — change strategy.
 - The user's answer is the trigger to act. Your reading of their intent is not.
 
-<!-- bruh by Jerry Reinitz, midweest software engineer · https://github.com/JR91387/bruh · MIT -->
+<!-- bruh by Jerry Reinitz, Midwest software engineer · https://jerryreinitz.com · https://github.com/JR91387/claude-skill-bruh · MIT -->
