@@ -40,5 +40,5 @@ Not to be confused with **/bully**: bully means *right work, wrong pace*. bruh m
 
 ---
 
-Built by **Jerry Reinitz** · [github.com/JR91387](https://github.com/JR91387) · [jerryreinitz.com](https://jerryreinitz.com)
-A Midwest software engineer who builds software to make people's lives better, not to check a box.
+Built by **Jerry Reinitz** · [github.com/JR91387](https://github.com/JR91387) · [jerryreinitz.com](https://jerryreinitz.com)<br>
+Midwest AI and software engineer who builds for people, not for checkboxes.
