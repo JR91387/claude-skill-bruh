@@ -1,7 +1,5 @@
 <img alt="bruh: emergency re-alignment for your AI agent" src=".github/brand/banner.png">
 
-> **Side-eye included.** No refunds on the last 40 minutes.
-
 One word that tells your agent it just went off the rails. `/bruh` makes Claude stop, own it, and ask what you actually wanted before it touches anything else.
 
 ## What it does
