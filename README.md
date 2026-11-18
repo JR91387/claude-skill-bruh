@@ -42,3 +42,7 @@ Not to be confused with **/bully**: bully means *right work, wrong pace*. bruh m
 
 Built by **Jerry Reinitz** · [github.com/JR91387](https://github.com/JR91387) · [jerryreinitz.com](https://jerryreinitz.com)<br>
 Midwest AI and software engineer who builds for people, not for checkboxes.
+
+---
+
+**More from Reinitz Industries:** [Job-o-Matic](https://github.com/JR91387/jobomatic-reusme-skills-database) · [Wagtail Kanban Content Calendar](https://github.com/JR91387/wagtail-kanban-content-calendar) · [Preen](https://github.com/JR91387/Preen-AI-email-sorting) · [/bully](https://github.com/JR91387/claude-skill-bully) · [Calendar Forge](https://github.com/JR91387/calendar-forge-ics)
